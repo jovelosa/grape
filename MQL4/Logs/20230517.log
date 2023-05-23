@@ -1,0 +1,93 @@
+0	20:33:55.827	Custom indicator HouseSniperFx\PsychologicalLevels USDCHF,H1: loaded successfully
+0	20:33:55.833	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	20:33:55.841	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	20:33:55.847	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	20:33:55.854	Custom indicator HouseSniperFx\Fractal_mtf USDCHF,H1: loaded successfully
+0	20:33:55.861	Custom indicator HouseSniperFx\Fractal_mtf USDCHF,H1: loaded successfully
+0	20:33:55.868	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	20:33:55.875	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	20:33:55.881	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	20:33:55.892	PsychologicalLevels USDCHF,H1: initialized
+0	20:33:55.906	Ranges USDCHF,H1: initialized
+0	20:33:55.919	Ranges USDCHF,H1: initialized
+0	20:33:55.932	Ranges USDCHF,H1: initialized
+0	20:33:55.942	Fractal_mtf USDCHF,H1: initialized
+0	20:33:55.952	Fractal_mtf USDCHF,H1: initialized
+0	20:33:55.964	TimeBox USDCHF,H1: initialized
+0	20:33:55.977	TimeBox USDCHF,H1: initialized
+0	20:33:55.990	TimeBox USDCHF,H1: initialized
+0	20:33:56.276	Expert Grape USDCHF,H1: loaded successfully
+0	20:33:58.290	Grape USDCHF,H1 inputs: TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; candleNum=0; MagicNumber=9876; Slippage=3; TakeProfit=30; StopLoss=30; 
+0	20:33:58.303	Grape USDCHF,H1: Nuestro Robot Grape se ha Cargado a la gráfica!!
+0	20:33:58.303	Grape USDCHF,H1: El simbolo seleccionado es: USDCHF
+0	20:33:58.303	Grape USDCHF,H1: El precio seleccionado es: USDCHF
+0	20:33:58.303	Grape USDCHF,H1: initialized
+0	20:33:59.080	Grape USDCHF,H1: PRECIO VENTA ACTUAL->0.89837
+0	20:33:59.080	Grape USDCHF,H1: PRECIO S0 -> 0.89
+0	20:33:59.080	Grape USDCHF,H1: PRECIO S1 -> 0.892
+0	20:33:59.080	Grape USDCHF,H1: PRECIO S2 -> 0.895
+0	20:33:59.080	Grape USDCHF,H1: PRECIO S3 -> 0.898
+0	20:33:59.080	Grape USDCHF,H1: PRECIO S4 -> 0.9
+0	20:33:59.080	Grape USDCHF,H1: Entro a psico 3->0.89837
+0	20:33:59.080	Grape USDCHF,H1: La vela es bajista ->
+0	20:33:59.129	Grape USDCHF,H1: PRECIO VENTA ACTUAL->0.89837
+0	20:33:59.129	Grape USDCHF,H1: PRECIO S0 -> 0.89
+0	20:33:59.129	Grape USDCHF,H1: PRECIO S1 -> 0.892
+0	20:33:59.129	Grape USDCHF,H1: PRECIO S2 -> 0.895
+0	20:33:59.129	Grape USDCHF,H1: PRECIO S3 -> 0.898
+0	20:33:59.129	Grape USDCHF,H1: PRECIO S4 -> 0.9
+0	20:33:59.129	Grape USDCHF,H1: Entro a psico 3->0.89837
+0	20:33:59.129	Grape USDCHF,H1: La vela es bajista ->
+0	20:37:56.077	PsychologicalLevels USDCHF,H1: uninit reason 9
+0	20:37:56.077	Ranges USDCHF,H1: uninit reason 9
+0	20:37:56.077	Ranges USDCHF,H1: uninit reason 9
+0	20:37:56.078	Ranges USDCHF,H1: uninit reason 9
+0	20:37:56.078	Fractal_mtf USDCHF,H1: uninit reason 9
+0	20:37:56.078	Fractal_mtf USDCHF,H1: uninit reason 9
+0	20:37:56.078	TimeBox USDCHF,H1: uninit reason 9
+0	20:37:56.078	TimeBox USDCHF,H1: uninit reason 9
+0	20:37:56.079	TimeBox USDCHF,H1: uninit reason 9
+0	20:37:56.079	Grape USDCHF,H1: uninit reason 9
+0	20:37:56.237	Custom indicator PsychologicalLevels USDCHF,H1: removed
+0	20:37:56.238	Custom indicator Ranges USDCHF,H1: removed
+0	20:37:56.240	Custom indicator Ranges USDCHF,H1: removed
+0	20:37:56.241	Custom indicator Ranges USDCHF,H1: removed
+0	20:37:56.242	Custom indicator Fractal_mtf USDCHF,H1: removed
+0	20:37:56.243	Custom indicator Fractal_mtf USDCHF,H1: removed
+0	20:37:56.245	Custom indicator TimeBox USDCHF,H1: removed
+0	20:37:56.247	Custom indicator TimeBox USDCHF,H1: removed
+0	20:37:56.248	Custom indicator TimeBox USDCHF,H1: removed
+0	20:37:56.273	Expert Grape USDCHF,H1: removed
+0	20:38:00.642	Custom indicator HouseSniperFx\PsychologicalLevels USDCHF,H1: loaded successfully
+0	20:38:00.649	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	20:38:00.655	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	20:38:00.663	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	20:38:00.669	Custom indicator HouseSniperFx\Fractal_mtf USDCHF,H1: loaded successfully
+0	20:38:00.676	Custom indicator HouseSniperFx\Fractal_mtf USDCHF,H1: loaded successfully
+0	20:38:00.683	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	20:38:00.690	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	20:38:00.697	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	20:38:00.708	PsychologicalLevels USDCHF,H1: initialized
+0	20:38:00.721	Ranges USDCHF,H1: initialized
+0	20:38:00.735	Ranges USDCHF,H1: initialized
+0	20:38:00.748	Ranges USDCHF,H1: initialized
+0	20:38:00.758	Fractal_mtf USDCHF,H1: initialized
+0	20:38:00.768	Fractal_mtf USDCHF,H1: initialized
+0	20:38:00.784	TimeBox USDCHF,H1: initialized
+0	20:38:00.797	TimeBox USDCHF,H1: initialized
+0	20:38:00.811	TimeBox USDCHF,H1: initialized
+0	20:38:01.139	Expert Grape USDCHF,H1: loaded successfully
+0	20:38:02.961	Grape USDCHF,H1 inputs: TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; candleNum=0; MagicNumber=9876; Slippage=3; TakeProfit=30; StopLoss=30; 
+0	20:38:02.981	Grape USDCHF,H1: Nuestro Robot Grape se ha Cargado a la gráfica!!
+0	20:38:02.981	Grape USDCHF,H1: El simbolo seleccionado es: USDCHF
+0	20:38:02.981	Grape USDCHF,H1: El precio seleccionado es: USDCHF
+0	20:38:02.981	Grape USDCHF,H1: initialized
+0	20:38:04.290	Grape USDCHF,H1: PRECIO VENTA ACTUAL->0.89856
+0	20:38:04.290	Grape USDCHF,H1: PRECIO S0 -> 0.89
+0	20:38:04.290	Grape USDCHF,H1: PRECIO S1 -> 0.892
+0	20:38:04.290	Grape USDCHF,H1: PRECIO S2 -> 0.895
+0	20:38:04.290	Grape USDCHF,H1: PRECIO S3 -> 0.898
+0	20:38:04.290	Grape USDCHF,H1: PRECIO S4 -> 0.9
+0	20:38:04.290	Grape USDCHF,H1: Entro a psico 3->0.89856
+0	20:38:04.290	Grape USDCHF,H1: La vela es alcista!
+0	20:38:04.290	Grape USDCHF,H1: Error al abrir la orden de compra: 

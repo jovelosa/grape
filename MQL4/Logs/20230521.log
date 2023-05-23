@@ -1,0 +1,84 @@
+0	17:54:46.090	Custom indicator HouseSniperFx\PsychologicalLevels USDCHF,H1: loaded successfully
+0	17:54:46.106	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	17:54:46.118	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	17:54:46.130	Custom indicator HouseSniperFx\Ranges USDCHF,H1: loaded successfully
+0	17:54:46.144	Custom indicator HouseSniperFx\Fractal_mtf USDCHF,H1: loaded successfully
+0	17:54:46.154	Custom indicator HouseSniperFx\Fractal_mtf USDCHF,H1: loaded successfully
+0	17:54:46.166	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	17:54:46.177	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	17:54:46.187	Custom indicator HouseSniperFx\TimeBox USDCHF,H1: loaded successfully
+0	17:54:46.217	PsychologicalLevels USDCHF,H1: initialized
+0	17:54:46.244	Ranges USDCHF,H1: initialized
+0	17:54:46.265	Ranges USDCHF,H1: initialized
+0	17:54:46.287	Ranges USDCHF,H1: initialized
+0	17:54:46.309	Fractal_mtf USDCHF,H1: initialized
+0	17:54:46.324	Fractal_mtf USDCHF,H1: initialized
+0	17:54:46.347	TimeBox USDCHF,H1: initialized
+0	17:54:46.370	TimeBox USDCHF,H1: initialized
+0	17:54:46.395	TimeBox USDCHF,H1: initialized
+0	17:54:47.641	Expert Grape USDCHF,H1: loaded successfully
+0	17:54:56.708	Grape USDCHF,H1 inputs: TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; candleNum=0; MagicNumber=9876; Slippage=3; TakeProfit=30; StopLoss=30; 
+0	17:54:56.768	Grape USDCHF,H1: Nuestro Robot Grape se ha Cargado a la gráfica!!
+0	17:54:56.768	Grape USDCHF,H1: El simbolo seleccionado es: USDCHF
+0	17:54:56.768	Grape USDCHF,H1: El precio seleccionado es: USDCHF
+0	17:54:56.768	Grape USDCHF,H1: initialized
+0	17:56:10.206	PsychologicalLevels USDCHF,H1: uninit reason 4
+0	17:56:10.206	Ranges USDCHF,H1: uninit reason 4
+0	17:56:10.207	Ranges USDCHF,H1: uninit reason 4
+0	17:56:10.207	Ranges USDCHF,H1: uninit reason 4
+0	17:56:10.208	Fractal_mtf USDCHF,H1: uninit reason 4
+0	17:56:10.208	Fractal_mtf USDCHF,H1: uninit reason 4
+0	17:56:10.208	TimeBox USDCHF,H1: uninit reason 4
+0	17:56:10.209	TimeBox USDCHF,H1: uninit reason 4
+0	17:56:10.209	TimeBox USDCHF,H1: uninit reason 4
+0	17:56:10.214	Custom indicator PsychologicalLevels USDCHF,H1: removed
+0	17:56:10.217	Custom indicator Ranges USDCHF,H1: removed
+0	17:56:10.219	Custom indicator Ranges USDCHF,H1: removed
+0	17:56:10.222	Custom indicator Ranges USDCHF,H1: removed
+0	17:56:10.225	Custom indicator Fractal_mtf USDCHF,H1: removed
+0	17:56:10.227	Custom indicator Fractal_mtf USDCHF,H1: removed
+0	17:56:10.230	Custom indicator TimeBox USDCHF,H1: removed
+0	17:56:10.232	Custom indicator TimeBox USDCHF,H1: removed
+0	17:56:10.235	Custom indicator TimeBox USDCHF,H1: removed
+0	17:57:07.116	Grape USDCHF,H1: PRECIO VENTA ACTUAL->0.89855
+0	17:57:07.116	Grape USDCHF,H1: PRECIO S0 -> 0.89
+0	17:57:07.116	Grape USDCHF,H1: PRECIO S1 -> 0.892
+0	17:57:07.116	Grape USDCHF,H1: PRECIO S2 -> 0.895
+0	17:57:07.116	Grape USDCHF,H1: PRECIO S3 -> 0.898
+0	17:57:07.116	Grape USDCHF,H1: PRECIO S4 -> 0.9
+0	17:57:07.116	Grape USDCHF,H1: Entro a psico 3->0.89855
+0	17:57:07.116	Grape USDCHF,H1: La vela es neutra (el precio de apertura y cierre es el mismo!!
+0	17:57:46.385	Grape USDCHF,H1: uninit reason 9
+0	17:57:46.624	Expert Grape USDCHF,H1: removed
+0	17:58:16.091	Expert Grape USDCHF,H1: loaded successfully
+0	17:58:21.059	Grape USDCHF,H1 inputs: TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; candleNum=0; MagicNumber=9876; Slippage=3; TakeProfit=30; StopLoss=30; 
+0	17:58:21.102	Grape USDCHF,H1: Nuestro Robot Grape se ha Cargado a la gráfica!!
+0	17:58:21.102	Grape USDCHF,H1: El simbolo seleccionado es: USDCHF
+0	17:58:21.102	Grape USDCHF,H1: El precio seleccionado es: USDCHF
+0	17:58:21.102	Grape USDCHF,H1: initialized
+0	17:58:29.922	Grape USDCHF,H1: uninit reason 4
+0	17:58:29.922	Grape USDCHF,H1: Nuestro Robot Grape se ha Eliminado a la gráfica!!
+1	17:58:29.925	Grape USDCHF,H1: Abnormal termination
+0	17:58:30.015	Expert Grape USDCHF,H1: removed
+0	18:01:35.139	Expert Grape USDCHF,H1: loaded successfully
+0	18:01:59.031	Grape USDCHF,H1 inputs: TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; candleNum=0; MagicNumber=9876; Slippage=3; TakeProfit=30; StopLoss=30; 
+0	18:01:59.061	Grape USDCHF,H1: Nuestro Robot Grape se ha Cargado a la gráfica!!
+0	18:01:59.061	Grape USDCHF,H1: El simbolo seleccionado es: USDCHF
+0	18:01:59.061	Grape USDCHF,H1: El precio seleccionado es: USDCHF
+0	18:01:59.061	Grape USDCHF,H1: initialized
+0	18:07:46.864	Grape USDCHF,H1: uninit reason 9
+0	18:07:47.359	Expert Grape USDCHF,H1: removed
+0	18:09:18.953	Expert Grape USDCHF,H1: loaded successfully
+0	18:09:22.902	Grape USDCHF,H1 inputs: TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; candleNum=0; MagicNumber=9876; Slippage=3; TakeProfit=30; StopLoss=30; 
+0	18:09:22.959	Grape USDCHF,H1: Nuestro Robot Grape se ha Cargado a la gráfica!!
+0	18:09:22.959	Grape USDCHF,H1: El simbolo seleccionado es: USDCHF
+0	18:09:22.959	Grape USDCHF,H1: El precio seleccionado es: USDCHF
+0	18:09:22.959	Grape USDCHF,H1: initialized
+0	18:09:23.599	Grape USDCHF,H1: PRECIO VENTA ACTUAL->0.89849
+0	18:09:23.599	Grape USDCHF,H1: PRECIO S0 -> 0.89
+0	18:09:23.599	Grape USDCHF,H1: PRECIO S1 -> 0.892
+0	18:09:23.599	Grape USDCHF,H1: PRECIO S2 -> 0.895
+0	18:09:23.599	Grape USDCHF,H1: PRECIO S3 -> 0.898
+0	18:09:23.599	Grape USDCHF,H1: PRECIO S4 -> 0.9
+0	18:09:23.599	Grape USDCHF,H1: Entro a psico 3->0.89849
+0	18:09:23.599	Grape USDCHF,H1: La vela es bajista ->
